@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SPsuyash/about-me](https://github.com/SPsuyash/about-me)
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 💬 Ask me about **HTML , CSS , JavaScript , React , mongoDB , expressJS , nodeJS**
 
 - 📫 How to reach me **suyashpatelsp.gmail.com**
 
